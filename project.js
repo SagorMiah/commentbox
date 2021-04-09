@@ -9,7 +9,7 @@ const cratemess = (text) => {
     let createbox = `
         <li class="mesimg">
             <div class="userimg">
-                <image class="mimage" src="image/unnamed.gif"/>
+                <image class="mimage" src="unnamed.gif"/>
                 <div class="imageicon"
                     <i class="fas fa-check micon"></i>
                 ></div>
