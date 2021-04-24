@@ -1,3 +1,3 @@
 # commentbox
 simple comment box
-Live Demo (https://sagormiah.github.io/commentbox/)
+<a href="https://sagormiah.github.io/commentbox/"> Live Demo </a>
